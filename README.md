@@ -5,7 +5,7 @@ Olá, meu nome é Amauri Ferreira, tenho 24 anos e sou estudante de Engenharia d
 ### Aqui estão algumas das coisas que gosto de usar :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css,postman,eclipse" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css,postman,eclipse,maven" />
   </a>
 </p>
 
