@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 <hr>
-Olá, meu nome é Amauri Ferreira, tenho 24 anos e sou estudante de Engenharia de Software. Sou apaixonado por programação e meu principal objetivo é criar sites e aplicativos inovadores que abordem e solucionem problemas do mundo real.
+Olá, meu nome é Amauri Ferreira, tenho 25 anos e sou estudante de Engenharia de Software. Sou apaixonado por programação e meu principal objetivo é criar sites e aplicativos inovadores que abordem e solucionem problemas do mundo real.
 
 ### Aqui estão algumas das coisas que gosto de usar :
 <p>
